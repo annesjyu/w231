@@ -26,7 +26,7 @@ GDPR is another strict law protecting data transfering accross borders, includin
 
 ### The rest of the world
 
-![CBDT of the world](2017-block-global-data-flow-960.jpg)
+<img src="2017-block-global-data-flow-960.jpg" alt="CBDT of the world" style="width:500px;height:670px;"/>
 
 ## Data localization
 On the other side of data transferring is **Data localization** or **data residency**, which regulates means data about a nations' citizens or residents be collected, processed or stored inside the country. The requirement for localization increased after the incident by ex CIA - *Edward Snowden*, who leaked highly classified information from NSA in 2013. Also goverments in Europe and across the world are starting to realize the perils brought by data flow through technology. The emerging trend is becoming to enforce data are consumed on the spot before serve upper applications. Germany and France are the first to approve data localization laws, following by EU in 2017.
