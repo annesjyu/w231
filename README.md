@@ -36,6 +36,6 @@ Each country could have its own laws for diffent types of data. For example, Aus
 
 
 ## Reference
-[^1]: [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers](https://iapp.org/news/a/top-10-operational-impacts-of-the-gdpr-part-4-cross-border-data-transfers/)
+[^1] [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers](https://iapp.org/news/a/top-10-operational-impacts-of-the-gdpr-part-4-cross-border-data-transfers/)
 [^2] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
 
