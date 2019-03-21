@@ -1,8 +1,10 @@
 # Cross-Border Data Flows & Privacy
 
-## Cross-border Data Transfers (CBDT)
+Global economy depends on the transfer of data.
 
-**Cross-border Data Transfers (CBDT)** usually means personal data collected from one location are transferred to a third country or international organization subject to compliance with set conditions, including conditions for onward transfer. It typically involves matters like, [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers][1]
+**Cross-border Data Transfers (CBDT)** usually means personal data collected from one location are transferred to a third country or international organization. CBDT restrictions fall into two general categories:
+
+* *Privacy Regulations*: the process subject to compliance with set conditions, including conditions for onward transfer. Once conditions are met, transfers are allowed. It typically involves matters like, [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers][1]
 
 * Data subject consent,
 * Data anonymization,
@@ -11,6 +13,10 @@
 * Appointment data protection officers,
   * one government agency with enforcement authority
   * one third-party accountability agent
+
+* *Data Localization*: ban on transferring data out of the country or require the organization to build or use local infrastructure and servers.
+
+### Privacy Regulations
 
 Regulations and policies regarding CBDT are varied depending on where the data come from and go to. The types of data also matter in this case. For example,
 
@@ -21,6 +27,19 @@ Regulations and policies regarding CBDT are varied depending on where the data c
 > effective privacy protections that avoid barriers to information flows.”
 
 Within which, each APEC member was encouraged to implement their domestic privacy laws based on the principles in this framework.
+
+## Where CBDT Applies?
+
+Suprised, in many situations CBDT occurs. For example,
+
+* Coorperate emails, customer communications.
+* Data analysis to optimize global logistics.
+* Outsource customer support services.
+* HR for global workforces.
+* Global researches.
+* Use Internet to query, post or update information locating overseas.
+
+There are other situations, for example, accidental or intentional data breaches.
 
 ## Some Case Studies
 
