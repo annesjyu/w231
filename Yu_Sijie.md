@@ -50,7 +50,7 @@ There are other unexpected situations, for example, accidental or intentional da
 
 Overall, one can query [dlapiperdataprotection](https://www.dlapiperdataprotection.com/index.html?t=transfer&c=RU&c2=) for better understanding. It can also be used to compare laws from two countries side by side.
 
-<img src="dlapiperdataprotection.png" alt="dlapiperdataprotection.com"/>
+<img src="dlapiperdataprotection.png" alt="Yu_Sijie1.png"/>
 
 ### European Union (EU) Countries: General Data Protection Regulation (GDPR)
 
@@ -71,7 +71,7 @@ The [APEC Cross-Border Privacy Rules](http://cbprs.org) (APEC CBPRs) System is d
 #### Comparison of CBPRs and GDPR
 
 <p align="center">
-<img src="comparision.png" alt="CBPRs vs GDPR" style="width:400px;height:530px;"/>
+<img src="Yu_Sijie2.png" alt="CBPRs vs GDPR" style="width:400px;height:530px;"/>
 </p>
 
 ### The rest of the world
@@ -91,7 +91,7 @@ In 2017, *Cybersecurity Law of the People's Republic of China* ("CSL") was publi
 It is *stricker* as well with new constraints on CBDTs. In March 2019 **Amendments to IT Networks Act** took effect. The most important point is that it imposes to appoint a local agent responsible for Korean data privacy compliance regarding CBPRs [4].
 
 <p align="center">
-<img src="2017-block-global-data-flow-960.jpg" alt="CBDT of the world" style="width:400px;height:530px;"/>
+<img src="Yu_Sijie3.jpg" alt="CBDT of the world" style="width:400px;height:530px;"/>
 </p>
 
 ## Data Localization
