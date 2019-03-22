@@ -69,9 +69,16 @@ The [APEC Cross-Border Privacy Rules](http://cbprs.org) (“APEC CBPRs”) Syste
 </p>
 
 ### The rest of the world
+
+#### China
+In 2017, *Cybersecurity Law of the People's Republic of China* ("CSL") was published including policies invovling cross-border data transfer. It is even stricker [4]. In general, 
+
+> it requires critical information infrastructure ("CII") to localize data within the territory of China and all network operators to conduct security assessments prior to the data export.
+
 <p align="center">
 <img src="2017-block-global-data-flow-960.jpg" alt="CBDT of the world" style="width:400px;height:530px;"/>
 </p>
+
 
 ## Data Localization
 On the other extreme side, banning data transfers, is called **Data localization** or **data residency**, which regulates means data about a nations' citizens or residents be collected, processed or stored inside the country. The requirement for localization increased after the incident by ex CIA - *Edward Snowden*, who leaked highly classified information from NSA in 2013. Also goverments in Europe and across the world are starting to realize the perils brought by data flow through technology. The emerging trend is becoming to enforce data are consumed on the spot before serve upper applications. Germany and France are the first to approve data localization laws, following by EU in 2017.
@@ -84,5 +91,9 @@ Each country could have its own laws for diffent types of data. For example, Aus
 
 ## Reference
 [1] [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers](https://iapp.org/news/a/top-10-operational-impacts-of-the-gdpr-part-4-cross-border-data-transfers/)
+
 [2] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
+
 [3] [APEC Cross-Border Privacy Rules Enshrined in U.S.-Mexico-Canada Trade Agreement](https://www.huntonprivacyblog.com/2018/10/03/apec-cross-border-privacy-rules-enshrined-u-s-mexico-canada-trade-agreement)
+
+[4][China: New Challenges Ahead: How To Comply With Cross-Border Data Transfer Regulation In China](http://www.mondaq.com/china/x/700140/Data+Protection+Privacy/New+Challenges+Ahead+How+To+Comply+With+CrossBorder+Data+Transfer+Regulation+In+China)
