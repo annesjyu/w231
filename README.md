@@ -65,12 +65,12 @@ The [APEC Cross-Border Privacy Rules](http://cbprs.org) (“APEC CBPRs”) Syste
 
 #### Comparison of CBPRs and GDPR
 <p align="center">
-<img src="2017-block-global-data-flow-960.jpg" alt="CBDT of the world" style="width:400px;height:530px;"/>
+<img src="comparision.png" alt="CBPRs vs GDPR" style="width:400px;height:530px;"/>
 </p>
 
 ### The rest of the world
 <p align="center">
-<img src="comparision.png" alt="CBPRs vs GDPR" style="width:400px;height:530px;"/>
+<img src="2017-block-global-data-flow-960.jpg" alt="CBDT of the world" style="width:400px;height:530px;"/>
 </p>
 
 ## Data Localization
