@@ -50,7 +50,7 @@ There are other unexpected situations, for example, accidental or intentional da
 
 Overall, one can query [dlapiperdataprotection](https://www.dlapiperdataprotection.com/index.html?t=transfer&c=RU&c2=) for better understanding. It can also be used to compare laws from two countries side by side.
 
-<img src="dlapiperdataprotection.png" alt="Yu_Sijie1.png"/>
+<img src="Yu_Sijie1.png" alt="Yu_Sijie1.png"/>
 
 ### European Union (EU) Countries: General Data Protection Regulation (GDPR)
 
