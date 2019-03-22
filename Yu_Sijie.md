@@ -1,6 +1,6 @@
 ## Cross-Border Data Transfers & Privacy
 
-### By Anne Yu | March 31, 2019
+##### By Anne Yu | March 31, 2019
 
 Cross-border Data Transfers (CBDTs)
 :  *Personal data* collected from one location are transferred to a third country or international organization. 
