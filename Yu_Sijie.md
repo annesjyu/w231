@@ -119,7 +119,11 @@ Each country could have its own laws for diffent types of data. For example, Aus
 [5] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
 
 *[GDPR]: General Data Protection Regulation
+
 *[CBDT]: Cross-border Data Transfers
+
 *[EU]: European Union
+
 *[APEC]: Asia-Pacific Economic Cooperation Apec
+
 *[APEC CBPRs]: APEC Cross-Border Privacy Rules
