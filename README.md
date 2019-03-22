@@ -1,34 +1,37 @@
 # Cross-Border Data Flows & Privacy
 
-Global economy depends on the transfer of data and most governments recognize
+**Cross-border Data Transfers (CBDT)** usually means *personal data* collected from one location are transferred to a third country or international organization. Global economy depends on Cross-border Transfer of Data (CBTDs). It is increasingly important to be able to move data freely to wherever those data are needed. From my investigation modern governments recognize
 
-> “the economic and social benefits of protecting the personal information of users of digital trade”.
+> the economic and social benefits of protecting the personal information of users of digital trade.
 
-**Cross-border Data Transfers (CBDT)** usually means personal data collected from one location are transferred to a third country or international organization. CBDT restrictions fall into two general categories:
+CBDT restrictions fall into **two** general categories:
 
-1. *Privacy Regulations*: the process subject to compliance with set conditions, including conditions for onward transfer. Once conditions are met, transfers are allowed. It typically involves matters like, [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers][1].
+1. *Privacy Regulations*: the transfer process subject to compliance with a set of conditions, including conditions for onward transfer. Once conditions are met, transfers are allowed. It typically covers a variety of matters [1], if being overlooked or jepardized, operators will be imposed with legal and civil obligations.
 
 * Data subject consent
 * Data anonymization
 * Breach notification
-* trans-border data transfers
 * Appointment data protection officers
   * one government agency with enforcement authority
   * one third-party accountability agent
 
-2. *Data Localization*: ban on transferring data out of the country or require the organization to build or use local infrastructure and servers.
+2. *Data Localization*: ban on transferring data out of the country, or require the organization to build or use local infrastructure and servers.
 
-### Cross-Border Privacy Rules
+We will discuss each of these cases using examples.
 
-Regulations and policies regarding CBDT are varied depending on where the data come from and go to. The types of data also matter in this case. For example,
+### Cross-Border Privacy Regulations
 
-* The EU GDPR allows personal data transfers to a third country only if a set of conditions are fulfilled.
-* The United States-Mexico-Canada Agreement (USMCA) promotes cross-border data flows with some conditions as well.
-* The Asia-Pacific Economic Cooperation (APEC) Privacy Framework established a principles-based model for national privacy laws that recognized the importance of 
+CBDT rules and policies are varied depending on where the data come from and go to. The type of data also matter in this case. For example,
+
+* The <font color="yellow">EU GDPR</font> generally prohibites CBDTs of personal data outside of EU territory, unless to a third country with a set of conditions are fulfilled.
+* The <font color="green">United States-Mexico-Canada Agreement (USMCA)</font> promotes cross-border data flows with less strict conditions as well.
+* The <font color="purple">Asia-Pacific Economic Cooperation (APEC) Privacy Framework (APEC PF)</font>established a principles-based model for national privacy laws that recognized the importance of 
 
 > effective privacy protections that avoid barriers to information flows.
 
-Within which, each APEC member was encouraged to implement their domestic privacy laws based on the principles in this framework.
+Within which, each APEC member was encouraged to implement their domestic privacy laws based on the principles in this framework, which seems less strict.
+
+* Other countries, like <font color="orange">China</font>, <font color="orange">South Korean</font> might have even stricker rules.
 
 ## When CBDT Happens?
 
