@@ -70,6 +70,13 @@ The [APEC Cross-Border Privacy Rules](http://cbprs.org) (“APEC CBPRs”) Syste
 
 ### The rest of the world
 
+With most countries following either GDPRs or APEC CBPRs there are still some countries imposing their own systems to regulate stricker on CBDTs.
+
+#### Rusian
+
+[6]
+
+
 #### China
 In 2017, *Cybersecurity Law of the People's Republic of China* ("CSL") was published including policies invovling cross-border data transfer. It is even stricker [4]. In general, 
 
@@ -101,3 +108,5 @@ Each country could have its own laws for diffent types of data. For example, Aus
 [4][China: New Challenges Ahead: How To Comply With Cross-Border Data Transfer Regulation In China](http://www.mondaq.com/china/x/700140/Data+Protection+Privacy/New+Challenges+Ahead+How+To+Comply+With+CrossBorder+Data+Transfer+Regulation+In+China)
 
 [5][Korean data law amendments pose new constraints for cross-border online services and data flows](https://www.lexology.com/library/detail.aspx?g=54354cd0-fc48-4a1a-b2b6-8adb1087b4a2)
+
+[6][Data protection in the Russian Federation: overview](https://uk.practicallaw.thomsonreuters.com/2-502-2227?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1).
