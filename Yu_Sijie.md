@@ -1,17 +1,17 @@
-## Cross-Border Data Flows & Privacy
+## Cross-Border Data Transfers & Privacy
 
 ### By Anne Yu | March 31, 2019
 
-Cross-border Data Transfers (CBDT)
+Cross-border Data Transfers (CBDTs)
 :  *Personal data* collected from one location are transferred to a third country or international organization. 
 
-Nowadays global economy depends on Cross-border Transfer of Data (CBTDs). It is important to be able to move data freely to wherever those data are needed. From my investigation modern governments recognize,
+Nowadays global economy depends on CBDTs. From my investigation modern governments recognize,
+> . importance of moving data freely to wherever those data are needed. 
+> . the economic and social benefits of protecting the personal information of users of digital trade.
 
-> the economic and social benefits of protecting the personal information of users of digital trade.
+But there is also a trend for countries to restrict the data exchange and make data localized.
 
-But there are also trends to restrict the data exchange and make data localized.
-
-CBDT restrictions fall into **two** general categories:
+CBDTs restrictions fall into **two** general categories:
 
 1. *Privacy Regulations*: the transfer process subject to compliance with a set of conditions, including conditions for onward transfer. Once conditions are met, transfers are allowed. It typically covers a variety of matters [1], if being overlooked or jepardized, operators will be imposed with legal and civil obligations.
 
@@ -24,15 +24,13 @@ CBDT restrictions fall into **two** general categories:
 
 2. *Data Localization*: ban on transferring data out of the country, or require the organization to build or use local infrastructure and servers.
 
-We will discuss each of these cases using examples.
-
 ### Cross-Border Privacy Regulations
 
-CBDT rules and policies are varied depending on where the data come from and go to. The type of data also matter in this case. For example,
+CBDTs rule and policy are varied depending on where the data come from and go to. The type of data also matter in this case. For example,
 
-* The <font color="yellow">European Union (EU) GDPR</font> generally prohibites CBDTs of personal data outside of EU territory, unless to a third country with a set of conditions are fulfilled.
-* The <font color="green">United States-Mexico-Canada Agreement (USMCA)</font> promotes cross-border data flows with less strict conditions as well.
-* The <font color="purple">Asia-Pacific Economic Cooperation Privacy Framework (APEC CBPRs)</font> established a principles-based model for national privacy laws that recognized the importance of 
+* The <font color="yellow">EU GDPR</font> generally prohibites CBDTs of personal data outside of EU territory, unless to a third country with a set of conditions are fulfilled.
+* The <font color="green">USMCA</font> promotes cross-border data flows with less strict conditions as well.
+* The <font color="purple">APEC CBPRs</font> established a principles-based model for national privacy laws that recognized the importance of 
 
 > effective privacy protections that avoid barriers to information flows.
 
@@ -40,14 +38,14 @@ Within which, each APEC member was encouraged to implement their domestic privac
 
 * Other countries, like <font color="orange">China</font>, <font color="orange">South Korean</font> might have even stricker rules.
 
-### When CBDT Happens?
+### When CBDTs Happens?
 
-Surprisedly, CBDT occurs in many daily occasions. For example,
+Surprisedly, CBDTs occurs in many daily occasions. For example,
 
 * Coorperate emails, customer suppport communications.
 * Data analysis to optimize global logistics.
 * Outsource services.
-* HR for global workforces.
+* HR for global workforces.We will discuss each of these cases using examples.
 * Conduct global researches.
 * <font color="yellow">Use Internet to query, post or update information locating overseas</font>.
 
@@ -73,7 +71,7 @@ USMCA formally recognizes the “APEC CBPRs” within their respective legal sys
 
 #### Asian (APEC CBPRs)
 
-The [APEC Cross-Border Privacy Rules](http://cbprs.org) (APEC CBPRs) System is developed by the **21** APEC member economies as a cross-border transfer mechanism and comprehensive privacy program for private sector organizations to enable the accountable free flow of data across the APEC region. The APEC CBPRs system has now been formally joined by the United States, Canada, Japan and Mexico.
+The [APEC CBPRs](http://cbprs.org) system is developed by the **21** APEC member economies as a cross-border transfer mechanism and comprehensive privacy program for private sector organizations to enable the accountable free flow of data across the APEC region. The APEC CBPRs system has now been formally joined by the United States, Canada, Japan and Mexico.
 
 #### Comparison of CBPRs and GDPR
 
@@ -102,10 +100,14 @@ It is *stricker* as well with new constraints on CBDTs. In March 2019 **Amendmen
 </p>
 
 ## Data Localization
-On the other extreme side, banning data transfers, is called **Data Localization** or **Data Residency**, which regulates means data about a nations' citizens or residents be collected, processed or stored inside the country. The requirement for localization has been increased after the incident of ex CIA - *Edward Snowden*, who leaked highly classified information from NSA in 2013. Also goverments in Europe and across the world are starting to realize the perils brought by data flow through technology. The emerging trend is becoming to enforce data are consumed on the spot before serve upper applications. Germany and France are the first to approve data localization laws, following by EU in 2017.
+On the other extreme side, banning data transfers, is called 
+
+Data Localization or Data Residency
+
+:  which regulates means data about a nations' citizens or residents be collected, processed or stored inside the country. The requirement for localization has been increased after the incident of ex CIA - *Edward Snowden*, who leaked highly classified information from NSA in 2013. Also goverments in Europe and across the world are starting to realize the perils brought by data flow through technology. The emerging trend is becoming to enforce data are consumed on the spot before serve upper applications. Germany and France are the first to approve data localization laws, following by EU in 2017.
 
 ### Data Types Matter as well
-Each country could have its own laws for diffent types of data. For example, Australia regulates its health records, Canada restricts personal data from public service providers, and China restricts more including personal, business, and financial data. [Data localization][5]
+Each country could have its own laws for diffent types of data. For example, Australia regulates its health records, Canada restricts personal data from public service providers, and China restricts more including personal, business, and financial data [5].
 
 ## Reference
 [1] [Top 10 operational impacts of the GDPR: Part 4 - Cross-border data transfers](https://iapp.org/news/a/top-10-operational-impacts-of-the-gdpr-part-4-cross-border-data-transfers/)
@@ -120,10 +122,12 @@ Each country could have its own laws for diffent types of data. For example, Aus
 
 *[GDPR]: General Data Protection Regulation
 
-*[CBDT]: Cross-border Data Transfers
+*[CBDTs]: Cross-border Data Transfers
 
 *[EU]: European Union
 
 *[APEC]: Asia-Pacific Economic Cooperation Apec
 
 *[APEC CBPRs]: APEC Cross-Border Privacy Rules
+
+*[USMCA]: United States-Mexico-Canada Agreement
