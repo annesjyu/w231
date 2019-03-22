@@ -1,8 +1,15 @@
-# Cross-Border Data Flows & Privacy
+## Cross-Border Data Flows & Privacy
 
-**Cross-border Data Transfers (CBDT)** usually means *personal data* collected from one location are transferred to a third country or international organization. Global economy depends on Cross-border Transfer of Data (CBTDs). It is increasingly important to be able to move data freely to wherever those data are needed. From my investigation modern governments recognize,
+### By Anne Yu | March 31, 2019
+
+Cross-border Data Transfers (CBDT)
+:  *Personal data* collected from one location are transferred to a third country or international organization. 
+
+Nowadays global economy depends on Cross-border Transfer of Data (CBTDs). It is important to be able to move data freely to wherever those data are needed. From my investigation modern governments recognize,
 
 > the economic and social benefits of protecting the personal information of users of digital trade.
+
+But there are also trends to restrict the data exchange and make data localized.
 
 CBDT restrictions fall into **two** general categories:
 
@@ -33,9 +40,9 @@ Within which, each APEC member was encouraged to implement their domestic privac
 
 * Other countries, like <font color="orange">China</font>, <font color="orange">South Korean</font> might have even stricker rules.
 
-## When CBDT Happens?
+### When CBDT Happens?
 
-Surprisedly, in many situations CBDT occurs. For example,
+Surprisedly, CBDT occurs in many daily occasions. For example,
 
 * Coorperate emails, customer suppport communications.
 * Data analysis to optimize global logistics.
@@ -46,17 +53,17 @@ Surprisedly, in many situations CBDT occurs. For example,
 
 There are other unexpected situations, for example, accidental or intentional data breaches.
 
-## Some Case Studies
+### Some Case Studies
 
-Overall, one can query [dlapiperdataprotection](https://www.dlapiperdataprotection.com/index.html?t=transfer&c=RU&c2=) for better understanding. It can also be used to compare laws from two countries side by side.
+Overall, one can query [dlapiperdataprotection.com](https://www.dlapiperdataprotection.com/index.html?t=transfer&c=RU&c2=) for a better understanding. The service can also be used to compare laws from two countries side by side.
 
 <img src="Yu_Sijie1.png" alt="Yu_Sijie1.png"/>
 
-### European Union (EU) Countries: General Data Protection Regulation (GDPR)
+#### European Union (EU) Countries: General Data Protection Regulation (GDPR)
 
 [GDPR](https://gdpr-info.eu) contains a set of rules for protecting the personal data of all EU residents plus *visitors*. GDPR also provides strict law protecting data transfering accross borders, including significant fines and penalties for non-compliant data controllers and processors. It has been updating new protections until 2018, especially focusing on EU citizens’ data. For more details, check [GDPR Articles 44, and 45 – 49](https://gdpr-info.eu/art-44-gdpr), which lays out conditions data can be transferred beyond EU/EEA.
 
-### Canada and Mexico (USMCA)
+#### Canada and Mexico (USMCA)
 
 In 2018 the U.S., Mexico and Canada announced a new trade agreement *United States-Mexico-Canada Agreement (USMCA)*, which is built on a chapter on digital trade from APEC Cross-Border Privacy Rules (APEC CBPRs), aims to
 
@@ -64,7 +71,7 @@ In 2018 the U.S., Mexico and Canada announced a new trade agreement *United Stat
 
 USMCA formally recognizes the “APEC CBPRs” within their respective legal systems. [2]
 
-### Asian (APEC CBPRs)
+#### Asian (APEC CBPRs)
 
 The [APEC Cross-Border Privacy Rules](http://cbprs.org) (APEC CBPRs) System is developed by the **21** APEC member economies as a cross-border transfer mechanism and comprehensive privacy program for private sector organizations to enable the accountable free flow of data across the APEC region. The APEC CBPRs system has now been formally joined by the United States, Canada, Japan and Mexico.
 
@@ -80,12 +87,12 @@ With most countries following either GDPRs or APEC CBPRs there are still some co
 
 #### Rusian
 
-Russian enacted *Data protection (privacy) laws* to permit CBPRs as long as operator ensures that the recipient state provides adequate protection of personal data. 
+Russian enacted *Data protection (privacy) Laws* to permit CBPRs as long as operator ensures that the recipient state provides adequate protection of personal data. 
 
 #### China
-In 2017, *Cybersecurity Law of the People's Republic of China* ("CSL") was published including policies invovling cross-border data transfer. It is much stricker [3]. In general, 
+In 2017, *Cybersecurity Law of the People's Republic of China* (CSL) was published including policies invovling cross-border data transfer. It is much stricker [3]. In general, 
 
-> it requires critical information infrastructure ("CII") to localize data within the territory of China and all network operators to conduct security assessments prior to the data export.
+> it requires Critical Information Infrastructure (CII) to localize data within the territory of China and all network operators to conduct security assessments prior to the data export.
 
 #### South Korean
 It is *stricker* as well with new constraints on CBDTs. In March 2019 **Amendments to IT Networks Act** took effect. The most important point is that it imposes to appoint a local agent responsible for Korean data privacy compliance regarding CBPRs [4].
@@ -110,3 +117,9 @@ Each country could have its own laws for diffent types of data. For example, Aus
 [4][Korean data law amendments pose new constraints for cross-border online services and data flows](https://www.lexology.com/library/detail.aspx?g=54354cd0-fc48-4a1a-b2b6-8adb1087b4a2)
 
 [5] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
+
+*[GDPR]: General Data Protection Regulation
+*[CBDT]: Cross-border Data Transfers
+*[EU]: European Union
+*[APEC]: Asia-Pacific Economic Cooperation Apec
+*[APEC CBPRs]: APEC Cross-Border Privacy Rules
