@@ -109,6 +109,4 @@ Each country could have its own laws for diffent types of data. For example, Aus
 
 [4][Korean data law amendments pose new constraints for cross-border online services and data flows](https://www.lexology.com/library/detail.aspx?g=54354cd0-fc48-4a1a-b2b6-8adb1087b4a2)
 
-[5][Data protection in the Russian Federation: overview](https://uk.practicallaw.thomsonreuters.com/2-502-2227?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1).
-
-[6] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
+[5] [Data localization](https://en.wikipedia.org/wiki/Data_localization)
